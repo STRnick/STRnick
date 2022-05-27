@@ -5,6 +5,7 @@
 </div>
 
 [![STRnick's GitHub stats](https://github-readme-stats.vercel.app/api?username=STRnick)](https://github.com/STRnick/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STRnick&layout=compact)](https://github.com/STRnick)
 
 ## 🎤 Introduce
 > 공사중
